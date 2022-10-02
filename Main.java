@@ -114,7 +114,7 @@ public class Main {
 		} else if (user_age > 6 && user_age <= 15) { //Se l'età è > 6 e <= 15
 			prezzo = 12; //Assegno il valore 10 alla variabile prezzo
 		} else { //Se l'età è > 15
-			prezzo = 15; //Assegno il valore 10 alla variabile prezzo
+			prezzo = 15; //Assegno il valore 15 alla variabile prezzo
 		}
 		
 		/*
